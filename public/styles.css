@@ -1,0 +1,17 @@
+body {
+  background-color: #F6F6F6;
+}
+
+#navbar {
+  box-shadow: 0 1px 3px grey;
+  background-color: red;
+  color: white;
+}
+#navbar h1 {
+  margin: 10px 0;
+}
+
+#instructions {
+  background-color: #EEE;
+  padding-bottom: 10px;
+}
